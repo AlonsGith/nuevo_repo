@@ -6,4 +6,9 @@ si, te he escuchado
 =======
 Pues si, la verdad es que si
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 Pues si, la verdad es que si
+=======
+¿Me has escuchado?
+>>>>>>> origin/main
+si, te he escuchado
